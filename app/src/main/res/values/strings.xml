@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="title">Заголовок</string>
+    <string name="descr">Описание</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+</resources>

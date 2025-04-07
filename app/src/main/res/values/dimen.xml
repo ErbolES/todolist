@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_title_text_size">22sp</dimen>
+    <dimen name="detail_description_margin_top">8dp</dimen>
+    <dimen name="btn_delete_margin_top">16dp</dimen>
+    <dimen name="text_size">18sp</dimen>
+</resources>
